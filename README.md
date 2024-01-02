@@ -43,3 +43,21 @@ Good understanding of ML algorithms
 Technologies used
 
 IDE- Google colab
+project flow-:
+Importing Libraries
+
+Loading the dataset
+
+Data Cleaning
+
+EDA on features
+
+Feature selection
+
+Fitting the regression models
+
+HyperParameter Tuning
+
+Evaluation Metrices of the model
+
+Final selection of the model
